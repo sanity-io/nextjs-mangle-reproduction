@@ -1,3 +1,5 @@
+# This issue has been resolved since `next@16.0.0-canary.17`
+
 # How to reproduce Next.js mangle bug
 
 1. Run `npm install`
